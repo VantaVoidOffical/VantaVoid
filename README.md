@@ -70,4 +70,4 @@ Join for updates, sneak peeks, bug reports, and exclusive beta access:
 
 | Version | Date | Notes |
 |---------|------|-------|
-| v5.4 | Current | Info tab added, snapline FOV fix, logo redesign |
+| v2| Current | Info tab added, snapline FOV fix, logo redesign |
